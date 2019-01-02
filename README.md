@@ -14,3 +14,6 @@
     cout<<"nilai fahrenheit ="<<F<<endl<<"nilai kelvin="<<K<<endl<<"nilai reamur"<<R;
     return 0;
      }
+
+# hasil program
+![img](https://github.com/ekayuliaa11/program-konversi-suhu/blob/master/konversi%20suhu.png?raw=true)
